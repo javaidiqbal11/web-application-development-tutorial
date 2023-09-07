@@ -5,3 +5,5 @@
 -- Install Xamp for the local server and database <br/>
 -- You should have HTML, CSS, JavaScript and PHP <br/>
 -- Run any HTML file to view the web pages in any browser 
+
+Tested
