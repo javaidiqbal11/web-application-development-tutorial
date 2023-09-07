@@ -1,9 +1,23 @@
 
 #test{
-
-    color: rgb(246, 248, 246);
-    background-color: rgb(64, 174, 218);
-    font-size: large;
+    background-color: rgb(154, 201, 216);
+    color: blue;
+    text-align: center;
     font-family: 'Times New Roman', Times, serif;
-
 }
+
+.table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
