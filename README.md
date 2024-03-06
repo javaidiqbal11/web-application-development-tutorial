@@ -34,5 +34,5 @@
 
 
 ### Supporting Material
-https://www.tutorialspoint.com/html/html_images.htm
+[HTML TUtorial] (https://www.tutorialspoint.com/html/html_images.htm)
 
